@@ -1,0 +1,19 @@
+[
+  {
+    "id": 920000,
+    "data": "聯華電子於2025年將全面導入供應鏈碳盤查系統，要求前十大供應商於年底前完成ISO 14064-3第三方查證，並設定2026年範圍三溫室氣體排放強度較2022年基準下降15%之具體目標。為達成此願景，公司將提供技術輔導資源，並每季追蹤供應商減碳進度，確保綠色採購政策落實執行。",
+    "esg_type": "E",
+    "promise_status": "Yes",
+    "promise_string": "設定2026年範圍三溫室氣體排放強度較2022年基準下降15%之具體目標",
+    "verification_timeline": "within_2_years",
+    "evidence_status": "Yes",
+    "evidence_string": "全面導入供應鏈碳盤查系統，要求前十大供應商於年底前完成ISO 14064-3第三方查證，並每季追蹤供應商減碳進度",
+    "evidence_quality": "Clear",
+    "company": "llm_synthetic",
+    "ticker": 0,
+    "page_number": 0,
+    "pdf_url": "",
+    "company_source": "lmstudio_minority_aug",
+    "_target": "within_clear"
+  }
+]
