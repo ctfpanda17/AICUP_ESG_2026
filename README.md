@@ -4,8 +4,6 @@
 
 ## 最終提交檔
 
-請提交：
-
 ```text
 outputs/submission_0_6057380.csv
 ```
@@ -109,7 +107,3 @@ scripts/main.py
 ```
 
 這會重新產生 stacking 的 test 預測。正式提交檔 `outputs/submission_0_6057380.csv` 則是最終整理完成的版本。
-
-## 注意
-
-為了讓 final package 保持可交付且不要超過數 GB，這裡保留 stacking meta model、來源預測與最終提交檔，沒有保留所有深度模型 checkpoint。
