@@ -1,0 +1,6017 @@
+[
+  {
+    "id": "11666",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "11479",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "11037",
+    "gold": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": "11740",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "11738",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "No",
+      "evidence_quality": "N/A"
+    },
+    "pred": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": 10391,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": 10932,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "11948",
+    "gold": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    },
+    "pred": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": "11816",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    }
+  },
+  {
+    "id": "11868",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": 10263,
+    "gold": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    },
+    "pred": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": 10403,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "11586",
+    "gold": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    },
+    "pred": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": "11146",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": 10794,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    }
+  },
+  {
+    "id": "11683",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "No",
+      "evidence_quality": "N/A"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "No",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": "11126",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "No",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": "11097",
+    "gold": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    },
+    "pred": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": 10552,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "11583",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "No",
+      "evidence_quality": "N/A"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "No",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": "11622",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": 10341,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": 10193,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "No",
+      "evidence_quality": "N/A"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    }
+  },
+  {
+    "id": "11716",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": 10771,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": 10517,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": 10266,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "11911",
+    "gold": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    },
+    "pred": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": 10540,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "No",
+      "evidence_quality": "N/A"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "No",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": 10452,
+    "gold": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    },
+    "pred": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": 10905,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "No",
+      "evidence_quality": "N/A"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "No",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": "11419",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": 10305,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    }
+  },
+  {
+    "id": "11476",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": 10607,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "11255",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "No",
+      "evidence_quality": "N/A"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "No",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": "11488",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "No",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": 10520,
+    "gold": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    },
+    "pred": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": 10378,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "No",
+      "evidence_quality": "N/A"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "No",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": "11400",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "11866",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": 10156,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "11774",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "11513",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": 10593,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "11490",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "11390",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "11356",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "11831",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": 10946,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "No",
+      "evidence_quality": "N/A"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "No",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": 10451,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": 10543,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": 10139,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": 10524,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": 10617,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": 10143,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    }
+  },
+  {
+    "id": 10561,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "11489",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": 10651,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    }
+  },
+  {
+    "id": 10720,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "11947",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    }
+  },
+  {
+    "id": "11768",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "11036",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "11508",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "11615",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": 10569,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "11630",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": 10610,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "No",
+      "evidence_quality": "N/A"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "No",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": "11326",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "within_2_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "within_2_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "11937",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "11338",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": 10962,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": 10710,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    }
+  },
+  {
+    "id": "11342",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "11806",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": 10713,
+    "gold": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    },
+    "pred": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": 10295,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": 10734,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": 10515,
+    "gold": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    },
+    "pred": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": 10494,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": 10135,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    }
+  },
+  {
+    "id": "11135",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "within_2_years",
+      "evidence_status": "No",
+      "evidence_quality": "N/A"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "within_2_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    }
+  },
+  {
+    "id": 10758,
+    "gold": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    },
+    "pred": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": "11249",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    }
+  },
+  {
+    "id": 10729,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "No",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": "11723",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "11211",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "11507",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "No",
+      "evidence_quality": "N/A"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "No",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": "11920",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": 10078,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": 10422,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "No",
+      "evidence_quality": "N/A"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    }
+  },
+  {
+    "id": 10174,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "No",
+      "evidence_quality": "N/A"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    }
+  },
+  {
+    "id": 10471,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "No",
+      "evidence_quality": "N/A"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    }
+  },
+  {
+    "id": "11530",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "11201",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "11138",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    }
+  },
+  {
+    "id": "11063",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "11104",
+    "gold": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    },
+    "pred": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": 10996,
+    "gold": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    },
+    "pred": {
+      "promise_status": "No",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": "11359",
+    "gold": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "within_2_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "11946",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "11297",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "11938",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "11361",
+    "gold": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": "11136",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "11213",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": 10208,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "No",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": "11857",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "11580",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "No",
+      "evidence_quality": "N/A"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "No",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": 10244,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "No",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": 10068,
+    "gold": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "11772",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "No",
+      "evidence_quality": "N/A"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    }
+  },
+  {
+    "id": 10648,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "No",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": 10769,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    }
+  },
+  {
+    "id": 10656,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    }
+  },
+  {
+    "id": "11965",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": 10281,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": 10395,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "11591",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": 10521,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": 10468,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "11985",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": 10015,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    }
+  },
+  {
+    "id": 10903,
+    "gold": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    },
+    "pred": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": 10034,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": 10400,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "11758",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": 10347,
+    "gold": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": 10404,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "No",
+      "evidence_quality": "N/A"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "No",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": "11647",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    }
+  },
+  {
+    "id": 10467,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "No",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": "11833",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": 10389,
+    "gold": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "11233",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "No",
+      "evidence_quality": "N/A"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "No",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": 10339,
+    "gold": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    },
+    "pred": {
+      "promise_status": "No",
+      "verification_timeline": "already",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": "11869",
+    "gold": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    },
+    "pred": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": 10948,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "No",
+      "evidence_quality": "N/A"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "11148",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": 10951,
+    "gold": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": 10239,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": 10537,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "No",
+      "evidence_quality": "N/A"
+    },
+    "pred": {
+      "promise_status": "No",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": "11102",
+    "gold": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": 10899,
+    "gold": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": 10161,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "No",
+      "evidence_quality": "Not Clear"
+    }
+  },
+  {
+    "id": "11618",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "11601",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": "11092",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": 10443,
+    "gold": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    },
+    "pred": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": "11272",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": 10472,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": 10130,
+    "gold": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    },
+    "pred": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": 10258,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "No",
+      "evidence_quality": "N/A"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    }
+  },
+  {
+    "id": 10954,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "11908",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "11330",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": 10115,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    }
+  },
+  {
+    "id": "11184",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": 10408,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": 10814,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "11692",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "within_2_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    }
+  },
+  {
+    "id": "11767",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "No",
+      "evidence_quality": "N/A"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "No",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": 10530,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "11026",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    }
+  },
+  {
+    "id": 10549,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "No",
+      "evidence_quality": "N/A"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "No",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": "11078",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "11257",
+    "gold": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    },
+    "pred": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": "11064",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    }
+  },
+  {
+    "id": "11994",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "11783",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "No",
+      "evidence_quality": "N/A"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": "11227",
+    "gold": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": 10005,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "11131",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": 10949,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "11609",
+    "gold": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": 10585,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    }
+  },
+  {
+    "id": 10527,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "11572",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": 10407,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "11189",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    }
+  },
+  {
+    "id": 10835,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": 10396,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "No",
+      "evidence_quality": "N/A"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "No",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": "11429",
+    "gold": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    },
+    "pred": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": 10046,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    }
+  },
+  {
+    "id": "11436",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "No",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": "11973",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "No",
+      "evidence_quality": "N/A"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    }
+  },
+  {
+    "id": 10650,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "11444",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    }
+  },
+  {
+    "id": 10267,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "11151",
+    "gold": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    }
+  },
+  {
+    "id": "11638",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "11524",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    }
+  },
+  {
+    "id": 10765,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "No",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": "11801",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "No",
+      "evidence_quality": "N/A"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": 10792,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    }
+  },
+  {
+    "id": 10832,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "No",
+      "evidence_quality": "N/A"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "No",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": 10840,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "No",
+      "evidence_quality": "N/A"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    }
+  },
+  {
+    "id": 10722,
+    "gold": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    },
+    "pred": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": "11749",
+    "gold": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": 10384,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "11514",
+    "gold": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "No",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": "11397",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": 10106,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "11477",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "No",
+      "evidence_quality": "N/A"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    }
+  },
+  {
+    "id": "11956",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "11634",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "No",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": 10228,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": 10354,
+    "gold": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    },
+    "pred": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": 10280,
+    "gold": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    },
+    "pred": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": "11231",
+    "gold": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    },
+    "pred": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": "11913",
+    "gold": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    },
+    "pred": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": 10541,
+    "gold": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    },
+    "pred": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": 10478,
+    "gold": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": 10236,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "No",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": 10614,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    }
+  },
+  {
+    "id": "11155",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": 10967,
+    "gold": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": 10647,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "No",
+      "evidence_quality": "N/A"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    }
+  },
+  {
+    "id": "11056",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "11684",
+    "gold": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    },
+    "pred": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": 10837,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": 10922,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "11293",
+    "gold": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    },
+    "pred": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": "11859",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "No",
+      "evidence_quality": "N/A"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "No",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": 10234,
+    "gold": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    },
+    "pred": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": 10175,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "11663",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "11661",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "11999",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "No",
+      "evidence_quality": "N/A"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    }
+  },
+  {
+    "id": 10901,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": 10685,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "11298",
+    "gold": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    },
+    "pred": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": "11887",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": 10528,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "11014",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": 10050,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "No",
+      "evidence_quality": "N/A"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    }
+  },
+  {
+    "id": 10142,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": 10226,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": 10933,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": 10983,
+    "gold": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    },
+    "pred": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": 10079,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": 10250,
+    "gold": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "No",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": "11850",
+    "gold": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    },
+    "pred": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": 10069,
+    "gold": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    },
+    "pred": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": 10320,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "11410",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": 10311,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": 10663,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": 10652,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "11101",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": 10910,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "No",
+      "evidence_quality": "N/A"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "No",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": 10383,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    }
+  },
+  {
+    "id": "11579",
+    "gold": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": "11427",
+    "gold": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": "11841",
+    "gold": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    }
+  },
+  {
+    "id": "11929",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "11696",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": 10338,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": 10063,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": 10931,
+    "gold": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    },
+    "pred": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": "11333",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "11351",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "11008",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": 10588,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "11719",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "11844",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "No",
+      "evidence_quality": "N/A"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "No",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": 10773,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": 10977,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "within_2_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "within_2_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": 10564,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    }
+  },
+  {
+    "id": "11690",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "11967",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": "11276",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "11925",
+    "gold": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": "11864",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": 10060,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "No",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": 10212,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "No",
+      "evidence_quality": "N/A"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    }
+  },
+  {
+    "id": "11706",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": 10121,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "11369",
+    "gold": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    },
+    "pred": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": "11386",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "No",
+      "evidence_quality": "N/A"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "No",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": 10598,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "No",
+      "evidence_quality": "N/A"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "No",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": 10149,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    }
+  },
+  {
+    "id": 10754,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "No",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": "11708",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "No",
+      "evidence_quality": "N/A"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "11874",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    }
+  },
+  {
+    "id": "11520",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "11582",
+    "gold": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    },
+    "pred": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": 10248,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": 10863,
+    "gold": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    },
+    "pred": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": 10525,
+    "gold": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "No",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": "11536",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": 10075,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "11157",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "11408",
+    "gold": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    },
+    "pred": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": "11364",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "11350",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "11357",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "No",
+      "evidence_quality": "N/A"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    }
+  },
+  {
+    "id": "11726",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "11172",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": 10702,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": 10876,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    }
+  },
+  {
+    "id": 10002,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "No",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": 10230,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "11004",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": 10145,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": 10273,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "11394",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "No",
+      "evidence_quality": "N/A"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "No",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": 10303,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    }
+  },
+  {
+    "id": "11982",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "No",
+      "evidence_quality": "N/A"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    }
+  },
+  {
+    "id": "11667",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "No",
+      "evidence_quality": "N/A"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "No",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": 10165,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "No",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": "11367",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "11457",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "11178",
+    "gold": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    },
+    "pred": {
+      "promise_status": "No",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": "11083",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "11959",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": 10609,
+    "gold": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    },
+    "pred": {
+      "promise_status": "No",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": 10410,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "No",
+      "evidence_quality": "N/A"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "No",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": "11493",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    }
+  },
+  {
+    "id": "11377",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "11600",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    }
+  },
+  {
+    "id": "11065",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "No",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "11735",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "11125",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "11923",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": 10578,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "11235",
+    "gold": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    },
+    "pred": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": "11616",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": 10799,
+    "gold": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": 10122,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": 10271,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "11821",
+    "gold": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    },
+    "pred": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": 10985,
+    "gold": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    },
+    "pred": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": 10025,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": 10982,
+    "gold": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    },
+    "pred": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": "11287",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "No",
+      "evidence_quality": "N/A"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    }
+  },
+  {
+    "id": "11963",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "11556",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "No",
+      "evidence_quality": "N/A"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "11698",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": 10723,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "11715",
+    "gold": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    },
+    "pred": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": "11819",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": 10581,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "No",
+      "evidence_quality": "N/A"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "No",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": "11705",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": 10892,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": 10849,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "11563",
+    "gold": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    },
+    "pred": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": "11815",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "11651",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "No",
+      "evidence_quality": "N/A"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    }
+  },
+  {
+    "id": 10562,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "No",
+      "evidence_quality": "N/A"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "No",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": 10658,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "No",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": 10170,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": 10676,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "11614",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "11459",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "No",
+      "evidence_quality": "N/A"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    }
+  },
+  {
+    "id": 10997,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    },
+    "pred": {
+      "promise_status": "No",
+      "verification_timeline": "already",
+      "evidence_status": "No",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": "11975",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": 10947,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": 10522,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "11220",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": 10144,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": 10238,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": 10490,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": 10535,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": 10183,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": 10880,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": 10016,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "11389",
+    "gold": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "11988",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": 10336,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "No",
+      "evidence_quality": "N/A"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "No",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": "11979",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    }
+  },
+  {
+    "id": 10684,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "11992",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "11697",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    }
+  },
+  {
+    "id": "11892",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": 10222,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "11464",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "11834",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "No",
+      "evidence_quality": "N/A"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    }
+  },
+  {
+    "id": "11114",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "11266",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": 10930,
+    "gold": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    },
+    "pred": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": 10112,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "11212",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "11169",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": 10604,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": 10559,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "No",
+      "evidence_quality": "N/A"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "No",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": 10169,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "11025",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    }
+  },
+  {
+    "id": "11542",
+    "gold": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": 10440,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": 10348,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": 10256,
+    "gold": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    },
+    "pred": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": 10157,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": 10900,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "11062",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "longer_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": 10191,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "11695",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": 10007,
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": 10612,
+    "gold": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "11407",
+    "gold": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "pred": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": 10682,
+    "gold": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    },
+    "pred": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": 10539,
+    "gold": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    },
+    "pred": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    }
+  }
+]
